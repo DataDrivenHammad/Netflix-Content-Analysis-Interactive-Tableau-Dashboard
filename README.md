@@ -20,4 +20,5 @@ Sourced and cleaned a dataset of 5,000+ Netflix titles, then analyzed content tr
 `Python` (pandas) · `Tableau`
 
 ## Data Source
+
 Netflix titles dataset (5,000+ entries)
