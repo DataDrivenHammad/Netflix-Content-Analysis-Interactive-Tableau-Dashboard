@@ -1,5 +1,4 @@
 # Netflix-Content-Analysis-Interactive-Tableau-Dashboard
-# Netflix Content Analysis Dashboard
 
 Interactive Tableau dashboard analyzing trends across a 5,000+ title Netflix dataset — genre, content rating, and geography.
 
