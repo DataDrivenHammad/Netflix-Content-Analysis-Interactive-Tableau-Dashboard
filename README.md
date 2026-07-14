@@ -39,9 +39,7 @@ This dashboard demonstrates how interactive data visualization can be used to ex
 - Content production increased rapidly after 2015 before declining in the final year of the dataset.
 
 ## Dashboard Preview
-
-![Dashboard](<img width="1449" height="886" alt="Netflix" src="https://github.com/user-attachments/assets/21a289ff-6c63-4904-95e4-7f0b4fc699b5" />
-)
+<img width="1449" height="886" alt="Netflix" src="https://github.com/user-attachments/assets/8d08789a-592d-4427-958b-5442b498a15f" />
 
 
 ## Tableau Dashboard
